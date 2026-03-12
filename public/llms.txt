@@ -1,0 +1,30 @@
+# Heartopia Hub
+
+> Your cozy companion for all things Heartopia. Discover, learn, and connect with fellow adventurers.
+
+## Key Information
+- **Heartopia**: A cozy, 3D open-world life simulator blending charm with modern social features.
+- **Hobby Systems**: Fishing, Cooking, Building, and Socializing are core gameplay pillars.
+- **Support**: Available on Mobile (Play Store), with detailed status for PC and Nintendo Switch.
+
+## Guides
+- [Fishing Guide](https://theheartopia.com/en/fishing): Master rare catches and secret fishing spots.
+- [Fish Locations](https://theheartopia.com/en/guides/fish-locations): Complete tracker for all fish in Heartopia.
+- [Cooking Recipes](https://theheartopia.com/en/guides/heartopia-recipes-cooking-guide): All formulas for cooking and baking.
+- [House Ideas & Blueprints](https://theheartopia.com/en/guides/housing): Design your dream island paradise.
+- [Piano Guide](https://theheartopia.com/en/piano): Master the piano and collect music sheets.
+
+## Events
+- [Onsen Egg Quest](https://theheartopia.com/en/events/onsen-egg): Complete daily egg locations tracker.
+- [Meteor Shower](https://theheartopia.com/en/events/meteor-shower): Guide to wishing on stars.
+- [Aurora Banquet](https://theheartopia.com/en/events/heartopia-aurora-weather-banquet-guide): Seasonal winter festival guide.
+
+## Platforms
+- [PC / Windows Status](https://theheartopia.com/en/platforms/pc)
+- [Android / Play Store](https://theheartopia.com/en/platforms/play-store)
+- [Nintendo Switch Status](https://theheartopia.com/en/platforms/switch)
+- [Official Release Date](https://theheartopia.com/en/release-date)
+
+## NPCs
+- [NPC Directory](https://theheartopia.com/en/npcs): Meet characters like Doris, Vanya, and Blanc.
+- [Where is Doris?](https://theheartopia.com/en/where-is-doris): Real-time location guide for Doris.

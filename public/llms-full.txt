@@ -1,0 +1,49 @@
+# Heartopia Hub - Full Knowledge Base
+
+> Comprehensive technical and gameplay documentation for Heartopia.
+
+## About Heartopia
+Heartopia is a next-generation life simulator developed for players seeking a "Deep Breath" in their gaming life. It features a soft macaron-hued 3D world with high customizability in housing and fashion.
+
+## Core Gameplay: Hobbies
+- **Fishing**: Tied to water type (River, Ocean, Pond), time (Day/Night), and weather (Clear, Rain, Rainbow).
+- **Cooking**: Requires gathering ingredients and following precise ratios for high-star results (e.g., Frosted Pancake, Mushroom Pie).
+- **Building**: No rigid templates. Players use blueprints to plan layouts and architectural flow.
+- **Social**: "Slow Social" focus with neighbors, home parties, and musical jams.
+
+## Guide Directory
+
+### Fishing & Aquatic Life
+- [Main Fishing Guide](https://theheartopia.com/en/fishing)
+- [Fish Locations Matrix](https://theheartopia.com/en/guides/fish-locations)
+- [Aquarium Collecting](https://theheartopia.com/en/guides/fish)
+
+### Cooking & Recipes
+- [Full Recipe Database](https://theheartopia.com/en/guides/heartopia-recipes-cooking-guide)
+- [Cooking Skill Mastery](https://theheartopia.com/en/guides/recipes)
+- [Specific: Frosted Pancake](https://theheartopia.com/en/guides/recipes/frosted-pancake)
+- [Specific: Iced Drink (Winter Event)](https://theheartopia.com/en/guides/recipes/iced-drink)
+- [Specific: Mushroom Pie](https://theheartopia.com/en/recipes/mushroom-pie)
+
+### Housing & Decoration
+- [Housing Systems Overview](https://theheartopia.com/en/guides/housing)
+- [Blueprint Planning Guide](https://theheartopia.com/en/guides/housing/blueprints)
+- [Furniture Selection](https://theheartopia.com/en/guides/housing#furniture)
+
+### Events & Seasons
+- [Events Hub](https://theheartopia.com/en/events)
+- [Onsen Egg Tracker (Daily)](https://theheartopia.com/en/events/onsen-egg-all-locations)
+- [Onsen Egg Quest Guide](https://theheartopia.com/en/events/onsen-egg)
+- [Meteor Shower Wishing](https://theheartopia.com/en/events/meteor-shower)
+- [Aurora Banquet Winter Event](https://theheartopia.com/en/events/heartopia-aurora-weather-banquet-guide)
+
+### NPCs & Characters
+- [NPC Relationship Guide](https://theheartopia.com/en/npcs)
+- [Meeting Doris](https://theheartopia.com/en/where-is-doris)
+
+### Technical & Platforms
+- [Platform Roadmap](https://theheartopia.com/en/platforms)
+- [PC / Windows FAQ](https://theheartopia.com/en/platforms/pc)
+- [Mobile / Play Store Guide](https://theheartopia.com/en/platforms/play-store)
+- [Switch Version Status](https://theheartopia.com/en/platforms/switch)
+- [Global Release Timeline](https://theheartopia.com/en/release-date)
