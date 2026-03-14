@@ -1,4 +1,4 @@
-﻿import { MetadataRoute } from 'next'
+import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const baseUrl = 'https://theheartopia.com'
@@ -54,7 +54,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
         '/guides/heartopia-penguin-trough',
         '/guides/heartopia-kapil-guide',
         '/guides/heartopia-mbti-personality-guide',
-        '/guides/winter-snow-memories'
+        '/guides/winter-snow-memories',
+        '/guides/rainbow-fish'
     ]
 
     const entries: MetadataRoute.Sitemap = []
@@ -91,7 +92,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
         '/guides/heartopia-penguin-trough',
         '/guides/heartopia-kapil-guide',
         '/guides/heartopia-mbti-personality-guide',
-        '/guides/winter-snow-memories'
+        '/guides/winter-snow-memories',
+        '/guides/rainbow-fish'
     ]
 
     // Add localized pages
