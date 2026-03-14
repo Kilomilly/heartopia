@@ -9,7 +9,7 @@ Panda Forest Trees: Eurasian Wigeon
 Spirit Oak Pine Forest: Wonga Pigeon variants
 Town Center Small Lakes: Winter flamingos/mallards with hats (near houses 5-6)
 
-[Image Placement: High-res Onsen Mountain map with color-coded pins (blue for lakes, green for forest). Inset close-ups of birds with hats. Alt: "Heartopia Winter Birds spawn map Suburban Lakes Forest".]
+[Image Placement: High-res Oneeartopia Winter Birds spawn map Suburban Lakes Forest".]
 All Confirmed Winter Birds & Locations Table
 
 
