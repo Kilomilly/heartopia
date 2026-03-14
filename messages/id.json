@@ -7343,5 +7343,162 @@
                 }
             ]
         }
+    },
+    "rainbowFish": {
+        "metaTitle": "Panduan Ikan Pelangi Heartopia: Lokasi, Rute & Tips Farm",
+        "metaDesc": "Temukan semua ikan pelangi di Heartopia: ikan eksklusif, lokasi terbaik, rute farm 2 jam terbaik, dan solusi praktis untuk masalah sulit menemukan ikan.",
+        "ogImageAlt": "Panduan Ikan Pelangi Heartopia – Lokasi dan Rute Farm",
+        "badge": "Panduan Memancing",
+        "heroTitle": "Panduan Ikan Pelangi Heartopia",
+        "heroDesc": "Cuaca pelangi adalah kesempatan memancing terbaik di Heartopia — meningkatkan peluang mendapatkan ikan langka, bernilai tinggi, dan target koleksi terpenting dalam game.",
+        "heroDesc2": "Panduan ini menjelaskan ikan pelangi mana yang paling penting, di mana menemukannya, cara menggunakan waktu terbatas dengan efisien, dan apa yang harus diperiksa jika tidak dapat menemukan yang dicari.",
+        "tocTitle": "Dalam panduan ini",
+        "toc": {
+            "quickAnswer": "Jawaban Cepat",
+            "exclusiveFish": "Ikan Eksklusif Pelangi",
+            "enhancedFish": "Ikan yang Ditingkatkan Pelangi",
+            "route": "Rute Terbaik 2 Jam",
+            "confirmWeather": "Konfirmasi Cuaca",
+            "byPlayerType": "Strategi Berdasarkan Tipe Pemain",
+            "troubleshooting": "Pemecahan Masalah",
+            "bestPractices": "Praktik Terbaik",
+            "faq": "Pertanyaan Umum"
+        },
+        "quickAnswer": {
+            "title": "Jawaban Cepat",
+            "intro": "Ikan pelangi adalah ikan yang muncul secara eksklusif selama cuaca pelangi, atau yang jauh lebih efisien untuk di-farm saat cuaca itu. Masalahnya adalah event pelangi memiliki waktu terbatas, jadi Anda harus bertindak cepat dan cerdas.",
+            "topTargetsLabel": "Target utama selama cuaca pelangi:",
+            "bestRouteLabel": "Rute terbaik:",
+            "route1": "Laut dalam terlebih dahulu",
+            "route2": "Sungai Giantwood kedua",
+            "route3": "Danau terakhir",
+            "footer": "Jika tujuannya memaksimalkan keuntungan, prioritaskan ikan eksklusif pelangi. Jika untuk kemajuan koleksi, tangkap setidaknya satu eksklusif sebelum farm yang ditingkatkan."
+        },
+        "exclusive": {
+            "title": "1. Ikan Eksklusif Pelangi",
+            "desc": "Ikan-ikan ini memiliki prioritas tertinggi karena terkait langsung dengan cuaca pelangi. Jika melewatkan jendela cuaca, Anda melewatkan kesempatan menangkapnya. Nilai tinggi, urgensi tinggi, kepentingan koleksi tertinggi.",
+            "footer": "Ini adalah target pertama Anda saat cuaca pelangi dimulai. Tangkap sebelum jendela waktu habis."
+        },
+        "enhanced": {
+            "title": "2. Ikan yang Ditingkatkan Pelangi",
+            "desc": "Ikan-ikan ini muncul di cuaca lain juga, tetapi cuaca pelangi membuat farm jauh lebih efisien. Berguna saat sudah menangkap yang eksklusif, atau saat level memancing belum cukup tinggi.",
+            "footer": "Bukan prioritas jika waktu pelangi terbatas, tetapi berguna untuk koleksi dan leveling."
+        },
+        "table": {
+            "thFish": "Ikan",
+            "thLocation": "Lokasi",
+            "thTime": "Waktu",
+            "thLevel": "Level Memancing",
+            "thValue": "Nilai",
+            "thPriority": "Prioritas",
+            "thAlsoSpawns": "Muncul di cuaca lain",
+            "seaBillsBoat": "Laut (Perahu Bill)",
+            "deepSea": "Laut Dalam",
+            "lake": "Danau",
+            "allDay": "Sepanjang hari",
+            "dawnDusk": "Fajar / Senja",
+            "morningEveningDay": "Pagi / Sore / Siang",
+            "noonMidnight": "Tengah hari–Tengah malam",
+            "rainyDays": "Hari hujan",
+            "sunnyDays": "Hari cerah",
+            "veryHigh": "Sangat Tinggi",
+            "high": "Tinggi"
+        },
+        "route": {
+            "title": "Rute Memancing Pelangi Terbaik dalam 2 Jam",
+            "intro": "Kebanyakan panduan hanya mendaftar ikan, tapi tidak memberi tahu apa yang harus dilakukan pertama. Rute ini menyelesaikan masalah itu.",
+            "phase1Title": "Fase 1: Laut Dalam Terlebih Dahulu",
+            "phase1Desc": "Mulai dari Desa Nelayan, sewa perahu Bill, dan pergi ke laut dalam terlebih dahulu. Di sinilah ikan paling bernilai berkumpul.",
+            "phase1Note": "Laut dalam harus menjadi titik pertama karena memiliki ikan eksklusif pelangi paling bernilai. Tangkap sebelum jendela waktu habis.",
+            "phase2Title": "Fase 2: Sungai Giantwood",
+            "phase2Desc": "Setelah laut dalam, pindah ke Sungai Giantwood. Tangkapan lebih cepat dan ikan masih bernilai baik.",
+            "phase2Fish1": "Huchen (target utama)",
+            "phase2Fish2": "Zander (target sekunder)",
+            "phase3Title": "Fase 3: Sapu Danau",
+            "phase3Desc": "Selesaikan di Meadow Lake, Forest Lake, atau Onsen Mountain Lake sesuai level dan tujuan.",
+            "phase3Fish1": "Goldfish",
+            "phase3Fish2": "Large Pearl Mussel",
+            "phase3Fish3": "Tadpole",
+            "phase3Note": "Fase paling tidak penting untuk pemain tingkat lanjut, tetapi masih merupakan penggunaan waktu pelangi tersisa yang baik jika ingin melengkapi koleksi."
+        },
+        "weather": {
+            "title": "Cara Memastikan Cuaca Pelangi Sedang Aktif",
+            "intro": "Jangan pergi ke lokasi memancing sebelum mengonfirmasi cuaca pelangi. Selalu periksa melalui alat dalam game terlebih dahulu.",
+            "step1": "Buka smartwatch di dalam game",
+            "step2": "Periksa ikon cuaca di layar utama",
+            "step3": "Cari simbol pelangi di bagian tampilan cuaca",
+            "step4": "Konfirmasi event sedang aktif sebelum pergi ke lokasi memancing",
+            "footer": "Event pelangi memiliki waktu terbatas dan harus diperlakukan sebagai peluang yang mendesak. Untuk detail mekanik memancing, lihat",
+            "fishingGuideLink": "Panduan Memancing Lengkap Heartopia"
+        },
+        "strategy": {
+            "title": "Strategi Terbaik Berdasarkan Tipe Pemain",
+            "intro": "Tujuan berbeda memerlukan pendekatan berbeda selama cuaca pelangi. Temukan tipe Anda di bawah ini.",
+            "newTitle": "Pemain Baru (Level Memancing Rendah)",
+            "newDesc": "Jika masih di tahap awal, jangan stres soal eksklusif bernilai tinggi.",
+            "newTip1": "Mancing di zona danau atau sungai yang lebih mudah",
+            "newTip2": "Tangkap semua yang bisa ditangkap",
+            "newTip3": "Gunakan cuaca pelangi untuk XP cepat",
+            "newTip4": "Bersiap untuk event level lebih tinggi nanti",
+            "midTitle": "Pemain Tengah Game",
+            "midDesc": "Jika di pertengahan game, seimbangkan keuntungan, kemajuan, dan kesulitan yang tepat.",
+            "midTip1": "Goldfish di Meadow Lake",
+            "midTip2": "Zander di Sungai Giantwood",
+            "midTip3": "Large Pearl Mussel di Forest Lake",
+            "advancedTitle": "Pemain Tingkat Lanjut",
+            "advancedDesc": "Jika level tinggi, maksimalkan efisiensi selama pelangi.",
+            "advancedTip1": "Laut dalam terlebih dahulu",
+            "advancedTip2": "Eksklusif pelangi adalah prioritas tertinggi",
+            "advancedTip3": "Jual ikan mentah selama event",
+            "advancedTip4": "Hindari membuang waktu untuk ikan bernilai rendah",
+            "completionistTitle": "Penyelesai Koleksi",
+            "completionistDesc": "Jika tujuannya kelengkapan di jurnal, urutan tangkapan sangat penting.",
+            "completionistTip1": "Tangkap semua ikan eksklusif pelangi terlebih dahulu, lalu gunakan waktu tersisa untuk yang ditingkatkan atau duplikat."
+        },
+        "troubleshoot": {
+            "title": "Pemecahan Masalah: Mengapa Tidak Bisa Menemukan Ikan Pelangi",
+            "intro": "Kebanyakan pemain yang tidak bisa menemukan ikan pelangi membuat salah satu dari 5 kesalahan ini. Periksa masing-masing sebelum menyerah.",
+            "check1Title": "Cek 1: Apakah Ini Benar-Benar Cuaca Pelangi?",
+            "check1Desc": "Jangan menebak. Konfirmasi cuaca pelangi melalui smartwatch atau sinyal visual game sebelum bepergian.",
+            "check2Title": "Cek 2: Apakah Anda di Lokasi yang Benar?",
+            "check2Desc": "Beberapa orang membuang waktu di zona yang salah. Swordfish memerlukan laut dalam. Huchen memerlukan Sungai Giantwood. Goldfish memerlukan Meadow Lake. Cuaca bagus tidak membantu jika lokasi salah.",
+            "check3Title": "Cek 3: Apakah Waktunya Sudah Benar?",
+            "check3Desc": "Tidak semua ikan tersedia sepanjang hari. Bluefin Tuna memerlukan fajar/senja. Goldfish memerlukan pagi/sore/siang. Waktu tetap penting meski saat pelangi.",
+            "check4Title": "Cek 4: Apakah Level Memancing Sudah Cukup Tinggi?",
+            "check4Desc": "Beberapa ikan pelangi terkunci berdasarkan level. Jika di bawah yang diperlukan, tidak akan menemukan ikan terlepas dari cuacanya. Periksa tabel dalam panduan ini.",
+            "check5Title": "Cek 5: Apakah Ikan Lolos Saat Pertarungan?",
+            "check5Desc": "Jika ikan sering lolos, perlambat dan kelola ketegangan daripada menggulung berlebihan. Perhatikan warna tali. Hentikan menggulung segera saat merah."
+        },
+        "practices": {
+            "title": "Praktik Terbaik Selama Cuaca Pelangi",
+            "intro": "Untuk memaksimalkan manfaat memancing pelangi, ikuti praktik-praktik ini sebelum dan selama event.",
+            "tip1": "Kosongkan inventaris sebelum event pelangi dimulai untuk memaksimalkan ruang penyimpanan.",
+            "tip2": "Bawa umpan dan perlengkapan agar tidak kehilangan waktu mengisi ulang stok selama event.",
+            "tip3": "Prioritaskan eksklusif pelangi terlebih dahulu, lalu beralih ke target yang ditingkatkan.",
+            "tip4": "Hindari memasak selama event — jual ikan mentah, masak nanti.",
+            "tip5": "Jual dan isi ulang hanya jika perlu untuk mempertahankan durasi event.",
+            "sellRawNote": "Jual mentah, masak nanti. Pendekatan ini selaras dengan tekanan waktu event dan mengoptimalkan hasil nyata selama pelangi."
+        },
+        "faq": {
+            "title": "Pertanyaan Umum tentang Ikan Pelangi",
+            "q1": "Apa itu ikan pelangi di Heartopia?",
+            "a1": "Ikan pelangi adalah ikan yang terikat dengan cuaca pelangi — baik yang muncul eksklusif selama cuaca itu, maupun yang jauh lebih efisien di-farm saat itu. Mulai dari ikan level rendah yang mudah ditangkap hingga target bernilai tinggi di laut dalam yang memerlukan level 10.",
+            "q2": "Ikan pelangi mana yang harus ditangkap duluan?",
+            "a2": "Mulai dari eksklusif pelangi — terutama target laut dalam (Swordfish, Bluefin Tuna, Smooth Hammerhead, Golden King Crab, Butterfly Koi) dan Huchen di Sungai Giantwood, karena ini hanya muncul saat pelangi.",
+            "q3": "Apa rute memancing pelangi terbaik di Heartopia?",
+            "a3": "Laut dalam terlebih dahulu, Sungai Giantwood kedua, danau terakhir. Mulai dari Desa Nelayan, sewa perahu Bill ke laut dalam, lalu ke sungai untuk Huchen, dan selesaikan dengan menyapu danau.",
+            "q4": "Mengapa tidak bisa menemukan Swordfish atau Bluefin Tuna saat pelangi?",
+            "a4": "Kemungkinan salah satu kondisi tidak terpenuhi: tidak dalam cuaca pelangi (konfirmasi dulu), lokasi salah (hanya laut dalam), waktu salah (Bluefin Tuna memerlukan fajar atau senja), atau level memancing di bawah 10.",
+            "q5": "Apakah semua ikan pelangi memiliki prioritas yang sama?",
+            "a5": "Tidak. Eksklusif seperti Swordfish (600g), Golden King Crab (600g), dan Bluefin Tuna (580g) harus didahulukan karena hanya muncul saat pelangi. Yang ditingkatkan seperti Goldfish dan Zander muncul di cuaca lain — farm setelah menangkap yang eksklusif."
+        },
+        "related": {
+            "title": "Panduan Heartopia Terkait",
+            "fishList": "Daftar Ikan Heartopia",
+            "fishLocations": "Lokasi Ikan Heartopia",
+            "fishingGuide": "Panduan Memancing Heartopia",
+            "doris": "Di Mana Doris di Heartopia?",
+            "rainbowWeather": "Panduan Cuaca Pelangi"
+        }
     }
 }
