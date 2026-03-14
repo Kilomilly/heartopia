@@ -43,7 +43,7 @@ export async function generateMetadata({
         title: rf.metaTitle,
         description: rf.metaDesc,
         alternates: {
-            canonical: `https://theheartopia.com/en/guides/rainbow-fish`,
+            canonical: `https://theheartopia.com/${locale}/guides/rainbow-fish`,
             languages: {
                 "en": "https://theheartopia.com/en/guides/rainbow-fish",
                 "th": "https://theheartopia.com/th/guides/rainbow-fish",
