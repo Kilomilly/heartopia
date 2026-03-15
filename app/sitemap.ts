@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         '/guides/fishing',
         '/guides/fish-locations',
         '/guides/fish',
+        '/guides/fish/swordfish',
         '/guides/housing',
         '/guides/recipes/frosted-pancake',
         '/guides/recipes/iced-drink',
@@ -93,7 +94,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
         '/guides/heartopia-kapil-guide',
         '/guides/heartopia-mbti-personality-guide',
         '/guides/winter-snow-memories',
-        '/guides/rainbow-fish'
+        '/guides/rainbow-fish',
+        '/guides/fish/swordfish'
     ]
 
     // Add localized pages

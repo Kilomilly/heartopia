@@ -1,12 +1,8 @@
 import React from "react"
 import type { Metadata } from 'next'
-import { Quicksand, Nunito } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import Script from 'next/script'
 import '../globals.css'
-
-const quicksand = Quicksand({ subsets: ["latin"], variable: '--font-quicksand' });
-const nunito = Nunito({ subsets: ["latin"], variable: '--font-nunito' });
 
 export const metadata: Metadata = {
   title: 'Heartopia Companion - Game Guide & Wiki',
@@ -31,7 +27,7 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <head />
-      <body className={`${quicksand.variable} ${nunito.variable} font-sans antialiased`}>
+      <body className="font-sans antialiased">
         {children}
 
         <Analytics />

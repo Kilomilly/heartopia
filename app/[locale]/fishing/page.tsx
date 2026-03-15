@@ -3,7 +3,6 @@ import { getDictionary } from "@/lib/dictionary"
 import type { Metadata } from "next"
 import Link from "next/link"
 import Image from "next/image"
-import { Playfair_Display } from "next/font/google"
 import {
     CloudRain,
     Moon,
